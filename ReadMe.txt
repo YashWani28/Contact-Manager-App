@@ -1,4 +1,4 @@
-This is a simple project for a contact manager application. It is implemented using NodeJS and expressJS. The contacts are stored in mongoDB database.
+This is a simple backend project for a contact manager application. It is implemented using NodeJS and expressJS. The contacts are stored in mongoDB database.
 
 Following are its features:
 - Ability to register and authenticate users using JWT tokens
